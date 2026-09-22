@@ -25,6 +25,9 @@ Run the main script through your terminal:
 ```bash
 python main.py
 ```
+## Example
+
+<img width="895" height="108" alt="image" src="https://github.com/user-attachments/assets/55f0b727-6c3e-46d6-88c7-8a376851b7ae" />
 
  
 
