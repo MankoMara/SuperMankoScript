@@ -14,8 +14,8 @@ By conceptualizing raw mRNA nucleotide data streams as a high-level genetic sour
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com
-cd SuperMankoCommit
+git clone https://github.com/MankoMara/SuperMankoScript
+cd SuperMankoScript
 ```
 
 ## Usage
